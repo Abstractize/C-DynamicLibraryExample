@@ -1,7 +1,8 @@
 #include "Person.h"
 
-#ifndef  __attribute__((visibility("default")));
-#define PAPITASBBQ
+#ifndef LIB_LIBRARY_H __attribute__((visibility("default")));
+#define LIB_LIBRARY_H
+
 
 extern "C"
 {
